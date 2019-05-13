@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Teko');
+
+body {
+  font-family: 'Teko', sans-serif;
+  background: #e1d2bd;
+}
+
+a {
+  text-decoration: none;
+  color: #2d291d;
+  font-size: 6rem;
+}
+
+h1 {
+  font-size: 7rem;
+  color: #2d291d;
+  text-align: center;
+}
+
+div {
+  background: #85868b;
+  margin: 0 15vw;
+  color: #2d291d;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+div #author {
+  font-size: 2rem;
+}
+
+div #year {
+  font-size: 2rem;
+}
+
+div #pages {
+  font-size: 2rem;
+}
